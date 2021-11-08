@@ -24,3 +24,8 @@ git init
 dvc init
 
 dvc add data_given/winequality_red.csv
+
+git add .
+ 
+git commit -m "first commit"
+
